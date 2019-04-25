@@ -15,6 +15,6 @@ You'll need to modify apiMeshShape and expose apiMeshGeom and link with it. E.g.
     __declspec(dllexport) apiMeshGeom*     __cdecl meshGeom();
 ```
 
-For detail usage, please check 
+For more details, please check 
 
 https://around-the-corner.typepad.com/adn/2017/05/how-to-write-an-arnold-translator-for-mpxsurfaceshapes.html
